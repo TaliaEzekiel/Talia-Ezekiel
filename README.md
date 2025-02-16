@@ -53,7 +53,3 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Talia_Ezekiel&show_icons=true&locale=en&layout=compact" alt="Talia_Ezekiel" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Talia_Ezekiel&show_icons=true&locale=en" alt="Talia_Ezekiel" /></p>
-
