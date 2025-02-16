@@ -57,4 +57,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Talia_Ezekiel&show_icons=true&locale=en" alt="Talia_Ezekiel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Talia_Ezekiel&" alt="Talia_Ezekiel" /></p>
